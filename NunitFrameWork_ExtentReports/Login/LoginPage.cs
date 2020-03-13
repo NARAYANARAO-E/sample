@@ -96,10 +96,10 @@ namespace NunitFrameWork_ExtentReports.Login
             }
             finally
             {
-                if (driver != null)
-                {
-                    driver.Quit();
-                }
+                //if (driver != null)
+                //{
+                //    driver.Quit();
+                //}
             }
         }
     }
